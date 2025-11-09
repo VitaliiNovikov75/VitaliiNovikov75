@@ -1,8 +1,7 @@
 <div id="header" align="center">
- <img src="https://github.com/zipzone07/zipzone07/blob/main/orig.jpg" width="700"/>
+ <img src="https://github.com/VitaliiNovikov75/main/blob/main/orig.jpg" width="700"/>
   </div> 
  
-
 <div id="badges" align="center">
 <img src="https://komarev.com/ghpvc/?username=zipzone07&style=flat-square&color=blue" alt=""/>
  </div>
