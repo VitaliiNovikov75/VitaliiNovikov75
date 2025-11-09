@@ -3,7 +3,7 @@
   </div> 
  
 <div id="badges" align="center">
-<img src="https://komarev.com/ghpvc/?username=zipzone07&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=VitaliiNovikov75&style=flat-square&color=blue" alt=""/>
  </div>
  
  <h1>
@@ -29,15 +29,15 @@
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=zipzone07" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=VitaliiNovikov75" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zipzone07&layout=compact&langs_count=8&card_width=320" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VitaliiNovikov75&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 ## Репозитории
 
 | Название | Описание | Язык программирования | Добавлено в избранное | Вклад в репозиторий |
 | :----------------------: | :----------------------: | :----------------------: | :----------------------: | :----------------------: |
-| [stability](https://github.com/zipzone07/stability) | Здесь находится портфолио профессии "Специалист по Data Science" | Python | <a href="https://github.com/zipzone07/stability/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/zipzone07/stability?style=flat-square&labelColor=343b41" /></a> | <a href="https://github.com/zipzone07/stability/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/zipzone07/stability?style=flat-square&labelColor=343b41"/></a> |
-| [bazis](https://github.com/zipzone07/bazis) | Здесь находится портфолио профессии "Технолог-конструктор" | JavaScript, Pascal | <a href="https://github.com/zipzone07/bazis/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/zipzone07/bazis?style=flat-square&labelColor=343b41" /></a> | <a href="https://github.com/zipzone07/bazis/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/zipzone07/bazis?style=flat-square&labelColor=343b41"/></a> |
+| [stability](https://github.com/VitaliiNovikov75/stability) | Здесь находится портфолио профессии "Специалист по Data Science" | Python | <a href="https://github.com/VitaliiNovikov75/stability/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/VitaliiNovikov75/stability?style=flat-square&labelColor=343b41" /></a> | <a href="https://github.com/VitaliiNovikov75/stability/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/VitaliiNovikov75/stability?style=flat-square&labelColor=343b41"/></a> |
+| [bazis](https://github.com/VitaliiNovikov75/bazis) | Здесь находится портфолио профессии "Технолог-конструктор" | JavaScript, Pascal | <a href="https://github.com/VitaliiNovikov75/bazis/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/VitaliiNovikov75/bazis?style=flat-square&labelColor=343b41" /></a> | <a href="https://github.com/VitaliiNovikov75/bazis/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/VitaliiNovikov75/bazis?style=flat-square&labelColor=343b41"/></a> |
