@@ -43,4 +43,4 @@
 
 | Название | Описание | Язык программирования |
 | :----------------------: | :----------------------: | :----------------------: |
-| [stability](https://github.com/VitaliiNovikov75/stability) | Здесь находится мое портфолио по профессии "ML-инженер" | Python |
+| [stability](https://github.com/VitaliiNovikov75/stability) | Здесь находится мое портфолио | Python |
