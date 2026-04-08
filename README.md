@@ -2,17 +2,16 @@
   Hello!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
  </h1>
-Я увлечен математикой и искусственным интеллектом. Пишу чистый и поддерживаемый код на Python. В процессе трудовой деятельности создал
-более 24+ проектов. Последние из них включают в себя следующие этапы:
+I'm passionate about mathematics and artificial intelligence. I write clean and maintainable Python code. Over the course of my career, I've created over 24 projects. The most recent ones include the following stages:
 
-- сбор требований;
-- создание ML модели (обучение, валидация, тестирование);
-- backend FastAPI;
-- обертывание в микросервис;
-- вывод в production;
-- поддержка сервиса.
+- requirements gathering;
+- ML model creation (training, validation, testing);
+- FastAPI backend;
+- microservice wrapping;
+- production deployment;
+- service support.
 
-## Основные навыки:
+## Basic skills:
 <div align="center">
 	<table>
 		<tr>
