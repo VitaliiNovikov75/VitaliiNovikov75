@@ -1,17 +1,9 @@
-<div id="header" align="center">
- <img src="https://github.com/VitaliiNovikov75/main/blob/main/orig.jpg" width="500"/>
-  </div> 
- 
-<div id="badges" align="center">
-<img src="https://komarev.com/ghpvc/?username=VitaliiNovikov75&style=flat-square&color=blue" alt=""/>
- </div>
- 
- <h1>
+<h1>
   Привет!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
  </h1>
 
-Я увлечен наукой о данных и математикой. Пишу чистый и поддерживаемый код на Python. В процессе трудовой деятельности создал
+Я увлечен математикой и наукой о данных. Пишу чистый и поддерживаемый код на Python. В процессе трудовой деятельности создал
 более 24+ проектов. Работаю над коммерческими и исследовательскими продуктами в
 здравоохранении, производстве, телекоммуникации и других отраслях.
 Последние из них включают в себя следующие этапы:
@@ -42,3 +34,8 @@
 ---
 
 Взгляни на мое [портфолио](https://github.com/VitaliiNovikov75/stability)
+
+<div id="badges" align="center">
+<img src="https://komarev.com/ghpvc/?username=VitaliiNovikov75&style=flat-square&color=blue" alt=""/>
+ </div>
+ 
