@@ -5,11 +5,11 @@
 I'm passionate about mathematics and artificial intelligence. I write clean and maintainable Python code. Over the course of my career, I've created over 24+ projects. The most recent ones include the following stages:
 
 - requirements gathering;
-- ML model creation (training, validation, testing);
+- data collection and pre-processing;
+- ML algorithm creation (training and validation, testing);
 - FastAPI backend;
 - microservice wrapping;
-- production deployment;
-- service support.
+- production deployment.
 
 ## Basic skills:
 <div align="center">
